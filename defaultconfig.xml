@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<psptwitter>
+    <account>
+        <username></username>
+        <password></password>
+    </account>
+    <config>
+        <wlan_connection>1</wlan_connection>
+    </config>
+</psptwitter>

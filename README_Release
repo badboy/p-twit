@@ -1,0 +1,34 @@
+p-twit! v0.0.2 - Release: 25.07.2008
+------------------------------------------------------------
+ by BadBoy_ <http://badboy.pytalhost.de>
+
+-- p-twit!? What is it? --
+You know Twitter? No? Visit www.twitter.com
+It's a social networking and microblogging service.
+You can write short (140 characters) message just to say what you are doing right now.
+
+-- Ah! What do I need to use it? --
+You can use Twitter whereever you are. Just visit www.twitter.com, login and tweet.
+Now the Problem is that the Webservice do not work via the PSP Browser.
+So I made this little client.
+Visit www.twitter.com/signup and create an account if you don't have one.
+Copy p-twit! to your PSP/GAME dir and start it via the Gamemenu.
+The rest should be self-explaining. 
+Edit settings and tweet!
+
+-- I found bugs --
+Right. Because I will go to holiday next week I released this version in an early beta status.
+Bugs can be reported. Hm...add me as a friend on twitter (my name: BadBoy_, www.twitter.com/BadBoy_) and tweet the error.
+(I have no bug tracker yet, you can leave a comment in my blog, too)
+
+-- I see "from [nice_application_name]" on twitter, why is there only a "via web" when tweeting via p-twit! --
+update your app ;) since v0.0.2 it's implemented and you see a "from p-twit!"
+
+-- Thanks --
+Thanks to InsertWittyName for his help.
+Thanks to all other in the #psp-programming channel on freenode.
+Thanks to all who made it possible to use homebrew on the PSP.
+
+-- Hey! One last question: I want to improve this app on my own, can I see the source? --
+Haha! joker... you don't want that. it's messy and ... and ...
+but if I find time to clean up the code I will release it as a open-source app, it will be available via github then.

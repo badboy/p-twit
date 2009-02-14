@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<status>
+  <created_at>Fri May 30 23:00:38 +0000 2008</created_at>
+  <id>823665656</id>
+  <text>little test</text>
+  <source>web</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <user>
+    <id>13485262</id>
+    <name>BadBoy_</name>
+    <screen_name>BadBoy_</screen_name>
+    <location>Germany</location>
+    <description></description>
+    <profile_image_url>http://s3.amazonaws.com/twitter_production/profile_images/49322592/ava_normal.png</profile_image_url>
+    <url>http://badboy.pytalhost.de/</url>
+    <protected>false</protected>
+    <followers_count>9</followers_count>
+  </user>
+</status>

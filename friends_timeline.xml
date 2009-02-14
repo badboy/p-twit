@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<statuses type="array">
+  <status>
+    <created_at>Fri May 30 16:26:40 +0000 2008</created_at>
+    <id>823453320</id>
+    <text>had his hair cut.</text>
+    <source>&lt;a href="http://www.naan.net/trac/wiki/TwitterFox"&gt;TwitterFox&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id/>
+    <in_reply_to_user_id/>
+    <favorited>false</favorited>
+    <user>
+      <id>14117669</id>
+      <name>BcF</name>
+      <screen_name>BeCeeF</screen_name>
+      <location>Germany / Münster</location>
+      <description/>
+      <profile_image_url>http://s3.amazonaws.com/twitter_production/profile_images/51667821/screenshot3_normal.png</profile_image_url>
+      <url>http://bcf-world.net/</url>
+      <protected>false</protected>
+      <followers_count>5</followers_count>
+    </user>
+  </status>
+  <status>
+    <created_at>Fri May 30 13:22:37 +0000 2008</created_at>
+    <id>823328449</id>
+    <text>German exam finished. Some of the questions were stupid...</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id/>
+    <in_reply_to_user_id/>
+    <favorited>false</favorited>
+    <user>
+      <id>12434162</id>
+      <name>Tblue</name>
+      <screen_name>tblue</screen_name>
+      <location>Berlin, Germany</location>
+      <description/>
+      <profile_image_url>http://s3.amazonaws.com/twitter_production/profile_images/48852112/twitter_normal.png</profile_image_url>
+      <url>http://www.ax86.net</url>
+      <protected>false</protected>
+      <followers_count>12</followers_count>
+    </user>
+  </status>
+  <status>
+    <created_at>Thu May 29 20:05:02 +0000 2008</created_at>
+    <id>822762972</id>
+    <text>just a simple twitterfox test</text>
+    <source>&lt;a href="http://www.naan.net/trac/wiki/TwitterFox"&gt;TwitterFox&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id/>
+    <in_reply_to_user_id/>
+    <favorited>false</favorited>
+    <user>
+      <id>13485262</id>
+      <name>BadBoy_</name>
+      <screen_name>BadBoy_</screen_name>
+      <location>Germany</location>
+      <description/>
+      <profile_image_url>http://s3.amazonaws.com/twitter_production/profile_images/49322592/ava_normal.png</profile_image_url>
+      <url>http://badboy.pytalhost.de/</url>
+      <protected>false</protected>
+      <followers_count>9</followers_count>
+    </user>
+  </status>
+  <status>
+    <created_at>Thu May 29 19:50:40 +0000 2008</created_at>
+    <id>822753554</id>
+    <text>@tblue GL :-)</text>
+    <source>&lt;a href="http://www.tinytwitter.com/"&gt;TinyTwitter&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id>822706767</in_reply_to_status_id>
+    <in_reply_to_user_id>12434162</in_reply_to_user_id>
+    <favorited>false</favorited>
+    <user>
+      <id>14819888</id>
+      <name>you_know</name>
+      <screen_name>you_know</screen_name>
+      <location>Somewhere in Germany</location>
+      <description>A computer-interested student from Germany talking about networks and boring things :-)</description>
+      <profile_image_url>http://static.twitter.com/images/default_profile_normal.png</profile_image_url>
+      <url/>
+      <protected>false</protected>
+      <followers_count>5</followers_count>
+    </user>
+  </status>
+  <status>
+    <created_at>Thu May 29 19:37:52 +0000 2008</created_at>
+    <id>822745392</id>
+    <text>@tblue good luck ;)</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id>822706767</in_reply_to_status_id>
+    <in_reply_to_user_id>12434162</in_reply_to_user_id>
+    <favorited>false</favorited>
+    <user>
+      <id>13485262</id>
+      <name>BadBoy_</name>
+      <screen_name>BadBoy_</screen_name>
+      <location>Germany</location>
+      <description/>
+      <profile_image_url>http://s3.amazonaws.com/twitter_production/profile_images/49322592/ava_normal.png</profile_image_url>
+      <url>http://badboy.pytalhost.de/</url>
+      <protected>false</protected>
+      <followers_count>9</followers_count>
+    </user>
+  </status>
+  <status>
+    <created_at>Thu May 29 18:38:30 +0000 2008</created_at>
+    <id>822706767</id>
+    <text>German exam tomorrow...</text>
+    <source>&lt;a href="http://widgets.opera.com/widget/7206"&gt;Twitter Opera widget&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id/>
+    <in_reply_to_user_id/>
+    <favorited>false</favorited>
+    <user>
+      <id>12434162</id>
+      <name>Tblue</name>
+      <screen_name>tblue</screen_name>
+      <location>Berlin, Germany</location>
+      <description/>
+      <profile_image_url>http://s3.amazonaws.com/twitter_production/profile_images/48852112/twitter_normal.png</profile_image_url>
+      <url>http://www.ax86.net</url>
+      <protected>false</protected>
+      <followers_count>12</followers_count>
+    </user>
+  </status>
+  <status>
+    <created_at>Thu May 29 12:01:14 +0000 2008</created_at>
+    <id>822443475</id>
+    <text>Neuer Link: Wohnzimmerhostblogger http://tinyurl.com/6hy426</text>
+    <source>&lt;a href="http://twitterfeed.com"&gt;twitterfeed&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id/>
+    <in_reply_to_user_id/>
+    <favorited>false</favorited>
+    <user>
+      <id>12434162</id>
+      <name>Tblue</name>
+      <screen_name>tblue</screen_name>
+      <location>Berlin, Germany</location>
+      <description/>
+      <profile_image_url>http://s3.amazonaws.com/twitter_production/profile_images/48852112/twitter_normal.png</profile_image_url>
+      <url>http://www.ax86.net</url>
+      <protected>false</protected>
+      <followers_count>12</followers_count>
+    </user>
+  </status>
+  <status>
+    <created_at>Thu May 29 11:25:53 +0000 2008</created_at>
+    <id>822425191</id>
+    <text>@tblue Will check this out soon.</text>
+    <source>&lt;a href="http://www.tinytwitter.com/"&gt;TinyTwitter&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id>822424721</in_reply_to_status_id>
+    <in_reply_to_user_id>12434162</in_reply_to_user_id>
+    <favorited>false</favorited>
+    <user>
+      <id>14819888</id>
+      <name>you_know</name>
+      <screen_name>you_know</screen_name>
+      <location>Somewhere in Germany</location>
+      <description>A computer-interested student from Germany talking about networks and boring things :-)</description>
+      <profile_image_url>http://static.twitter.com/images/default_profile_normal.png</profile_image_url>
+      <url/>
+      <protected>false</protected>
+      <followers_count>5</followers_count>
+    </user>
+  </status>
+  <status>
+    <created_at>Thu May 29 11:25:28 +0000 2008</created_at>
+    <id>822424977</id>
+    <text>Back at home. Eating something.</text>
+    <source>&lt;a href="http://www.tinytwitter.com/"&gt;TinyTwitter&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id/>
+    <in_reply_to_user_id/>
+    <favorited>false</favorited>
+    <user>
+      <id>14819888</id>
+      <name>you_know</name>
+      <screen_name>you_know</screen_name>
+      <location>Somewhere in Germany</location>
+      <description>A computer-interested student from Germany talking about networks and boring things :-)</description>
+      <profile_image_url>http://static.twitter.com/images/default_profile_normal.png</profile_image_url>
+      <url/>
+      <protected>false</protected>
+      <followers_count>5</followers_count>
+    </user>
+  </status>
+  <status>
+    <created_at>Thu May 29 11:24:57 +0000 2008</created_at>
+    <id>822424721</id>
+    <text>Neuer Blogpost: Twitterfeed-Test http://tinyurl.com/68vl8q</text>
+    <source>&lt;a href="http://twitterfeed.com"&gt;twitterfeed&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id/>
+    <in_reply_to_user_id/>
+    <favorited>false</favorited>
+    <user>
+      <id>12434162</id>
+      <name>Tblue</name>
+      <screen_name>tblue</screen_name>
+      <location>Berlin, Germany</location>
+      <description/>
+      <profile_image_url>http://s3.amazonaws.com/twitter_production/profile_images/48852112/twitter_normal.png</profile_image_url>
+      <url>http://www.ax86.net</url>
+      <protected>false</protected>
+      <followers_count>12</followers_count>
+    </user>
+  </status>
+  <status>
+    <created_at>Thu May 29 10:48:37 +0000 2008</created_at>
+    <id>822407456</id>
+    <text>@you_know look at http://twitter.com/CodeIgniter</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id>821556495</in_reply_to_status_id>
+    <in_reply_to_user_id>14819888</in_reply_to_user_id>
+    <favorited>false</favorited>
+    <user>
+      <id>12434162</id>
+      <name>Tblue</name>
+      <screen_name>tblue</screen_name>
+      <location>Berlin, Germany</location>
+      <description/>
+      <profile_image_url>http://s3.amazonaws.com/twitter_production/profile_images/48852112/twitter_normal.png</profile_image_url>
+      <url>http://www.ax86.net</url>
+      <protected>false</protected>
+      <followers_count>12</followers_count>
+    </user>
+  </status>
+  <status>
+    <created_at>Thu May 29 10:23:58 +0000 2008</created_at>
+    <id>822396661</id>
+    <text>Oral English exam is over</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id/>
+    <in_reply_to_user_id/>
+    <favorited>false</favorited>
+    <user>
+      <id>12434162</id>
+      <name>Tblue</name>
+      <screen_name>tblue</screen_name>
+      <location>Berlin, Germany</location>
+      <description/>
+      <profile_image_url>http://s3.amazonaws.com/twitter_production/profile_images/48852112/twitter_normal.png</profile_image_url>
+      <url>http://www.ax86.net</url>
+      <protected>false</protected>
+      <followers_count>12</followers_count>
+    </user>
+  </status>
+  <status>
+    <created_at>Thu May 29 07:43:13 +0000 2008</created_at>
+    <id>822326741</id>
+    <text>school is boring, too :D</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id/>
+    <in_reply_to_user_id/>
+    <favorited>false</favorited>
+    <user>
+      <id>13485262</id>
+      <name>BadBoy_</name>
+      <screen_name>BadBoy_</screen_name>
+      <location>Germany</location>
+      <description/>
+      <profile_image_url>http://s3.amazonaws.com/twitter_production/profile_images/49322592/ava_normal.png</profile_image_url>
+      <url>http://badboy.pytalhost.de/</url>
+      <protected>false</protected>
+      <followers_count>9</followers_count>
+    </user>
+  </status>
+  <status>
+    <created_at>Wed May 28 13:58:24 +0000 2008</created_at>
+    <id>821721329</id>
+    <text>@BadBoy_ exactly as I did last year ;)</text>
+    <source>&lt;a href="http://www.naan.net/trac/wiki/TwitterFox"&gt;TwitterFox&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id>821628124</in_reply_to_status_id>
+    <in_reply_to_user_id>13485262</in_reply_to_user_id>
+    <favorited>false</favorited>
+    <user>
+      <id>14117669</id>
+      <name>BcF</name>
+      <screen_name>BeCeeF</screen_name>
+      <location>Germany / Münster</location>
+      <description/>
+      <profile_image_url>http://s3.amazonaws.com/twitter_production/profile_images/51667821/screenshot3_normal.png</profile_image_url>
+      <url>http://bcf-world.net/</url>
+      <protected>false</protected>
+      <followers_count>5</followers_count>
+    </user>
+  </status>
+  <status>
+    <created_at>Wed May 28 11:32:21 +0000 2008</created_at>
+    <id>821628124</id>
+    <text>german:2-math:1-english:1 (without much learning...)</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id/>
+    <in_reply_to_user_id/>
+    <favorited>false</favorited>
+    <user>
+      <id>13485262</id>
+      <name>BadBoy_</name>
+      <screen_name>BadBoy_</screen_name>
+      <location>Germany</location>
+      <description/>
+      <profile_image_url>http://s3.amazonaws.com/twitter_production/profile_images/49322592/ava_normal.png</profile_image_url>
+      <url>http://badboy.pytalhost.de/</url>
+      <protected>false</protected>
+      <followers_count>9</followers_count>
+    </user>
+  </status>
+  <status>
+    <created_at>Wed May 28 08:50:12 +0000 2008</created_at>
+    <id>821556495</id>
+    <text>German-Test is over.</text>
+    <source>&lt;a href="http://www.tinytwitter.com/"&gt;TinyTwitter&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id/>
+    <in_reply_to_user_id/>
+    <favorited>false</favorited>
+    <user>
+      <id>14819888</id>
+      <name>you_know</name>
+      <screen_name>you_know</screen_name>
+      <location>Somewhere in Germany</location>
+      <description>A computer-interested student from Germany talking about networks and boring things :-)</description>
+      <profile_image_url>http://static.twitter.com/images/default_profile_normal.png</profile_image_url>
+      <url/>
+      <protected>false</protected>
+      <followers_count>5</followers_count>
+    </user>
+  </status>
+  <status>
+    <created_at>Tue May 27 19:53:26 +0000 2008</created_at>
+    <id>821163115</id>
+    <text>Tomorrow test in German... 9.000 seconds long!</text>
+    <source>&lt;a href="http://www.tinytwitter.com/"&gt;TinyTwitter&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id/>
+    <in_reply_to_user_id/>
+    <favorited>false</favorited>
+    <user>
+      <id>14819888</id>
+      <name>you_know</name>
+      <screen_name>you_know</screen_name>
+      <location>Somewhere in Germany</location>
+      <description>A computer-interested student from Germany talking about networks and boring things :-)</description>
+      <profile_image_url>http://static.twitter.com/images/default_profile_normal.png</profile_image_url>
+      <url/>
+      <protected>false</protected>
+      <followers_count>5</followers_count>
+    </user>
+  </status>
+  <status>
+    <created_at>Tue May 27 18:50:22 +0000 2008</created_at>
+    <id>821122814</id>
+    <text>trip was boring...extremly boring!</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id/>
+    <in_reply_to_user_id/>
+    <favorited>false</favorited>
+    <user>
+      <id>13485262</id>
+      <name>BadBoy_</name>
+      <screen_name>BadBoy_</screen_name>
+      <location>Germany</location>
+      <description/>
+      <profile_image_url>http://s3.amazonaws.com/twitter_production/profile_images/49322592/ava_normal.png</profile_image_url>
+      <url>http://badboy.pytalhost.de/</url>
+      <protected>false</protected>
+      <followers_count>9</followers_count>
+    </user>
+  </status>
+  <status>
+    <created_at>Tue May 27 09:13:03 +0000 2008</created_at>
+    <id>820764557</id>
+    <text>Still at school :-/</text>
+    <source>&lt;a href="http://www.tinytwitter.com/"&gt;TinyTwitter&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id/>
+    <in_reply_to_user_id/>
+    <favorited>false</favorited>
+    <user>
+      <id>14819888</id>
+      <name>you_know</name>
+      <screen_name>you_know</screen_name>
+      <location>Somewhere in Germany</location>
+      <description>A computer-interested student from Germany talking about networks and boring things :-)</description>
+      <profile_image_url>http://static.twitter.com/images/default_profile_normal.png</profile_image_url>
+      <url/>
+      <protected>false</protected>
+      <followers_count>5</followers_count>
+    </user>
+  </status>
+</statuses>

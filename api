@@ -1,0 +1,14 @@
+NICK:PASSWORD@
+
+send:
+ http://NICK:PASSWORD@twitter.com/statuses/update.xml
+ POST: status=message
+
+get own:
+ http://twitter.com/statuses/user_timeline/NICK.xml
+
+get friends:
+ http://NICK:PASSWORD@twitter.com/statuses/friends_timeline.xml
+
+limit:
+ http://NICK:PASSWORD@twitter.com/account/rate_limit_status.xml

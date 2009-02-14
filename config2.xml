@@ -1,0 +1,12 @@
+<psptwitter>
+ <account>
+  <username>BadBoy_</username>
+  <password>test</password>
+ </account>
+ <config>
+  <download_avatar>1</download_avatar>
+  <background_color>twitter</background_color>
+  <background_image>twitter.png</background_image>
+  <message_limit>5</message_limit>
+ </config>
+</psptwitter>

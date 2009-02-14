@@ -1,0 +1,14 @@
+font2
+img2
+PSP
+test
+usbhost
+release
+website
+update_source
+*.swp
+*.gz
+*Log.txt
+*.prx
+*.elf
+*.o

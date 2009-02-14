@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/openTRI/!svn/ver/1/src/streams
+END
+streams.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/openTRI/!svn/ver/1/src/streams/streams.c
+END
+bufstream.inc
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/openTRI/!svn/ver/1/src/streams/bufstream.inc
+END
+mstream.inc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/openTRI/!svn/ver/1/src/streams/mstream.inc
+END
+streams.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/openTRI/!svn/ver/1/src/streams/streams.h
+END
+bstream.inc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/openTRI/!svn/ver/1/src/streams/bstream.inc
+END
+fstream.inc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/openTRI/!svn/ver/1/src/streams/fstream.inc
+END
+afstream.inc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/openTRI/!svn/ver/1/src/streams/afstream.inc
+END

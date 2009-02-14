@@ -1,0 +1,4 @@
+<InsertWittyName> char *buffer = (buffer *)memalign(64, 1024 * 64);
+<InsertWittyName> do what you need with it.
+<InsertWittyName> then free(buffer) at the end.
+<InsertWittyName> char *buffer = (char *)memalign(64, 1024 * 64);
